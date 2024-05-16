@@ -1,3 +1,3 @@
 # Add video here
 This is the video:
-![explore.text.jsVideo.mp4](alt)
+![video of tests](explore.text.jsVideo.mp4)
